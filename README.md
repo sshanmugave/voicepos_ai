@@ -2,6 +2,20 @@
 
 This project upgrades the existing billing app into a universal offline-first Smart Billing & Sales Management App for small businesses.
 
+## Open Source
+
+This repository is released under the MIT License. Anyone can download, use, modify, and build on top of this project.
+
+- License: [LICENSE](LICENSE)
+- Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Direct APK Download
+
+Current Android release APK is available in repo:
+
+- [releases/app-release.apk](releases/app-release.apk)
+- [releases/app-release.apk.sha1](releases/app-release.apk.sha1)
+
 Supported business types:
 - Tea Shop
 - Restaurant
